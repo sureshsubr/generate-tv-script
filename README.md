@@ -17,20 +17,9 @@ In this project, we'll generate your own [Seinfeld](https://en.wikipedia.org/wik
 ## 1. Set up the Jupyter ipython notebook environment
 ## 1.1 Installation
 
-Download Anaconda
+* Download [Anaconda](https://www.anaconda.com/distribution/#download-section)
 
-|        | Linux | Mac | Windows | 
-|--------|-------|-----|---------|
-| 64-bit | [64-bit (bash installer)][lin64] | [64-bit (bash installer)][mac64] | [64-bit (exe installer)][win64]
-| 32-bit | [32-bit (bash installer)][lin32] |  | [32-bit (exe installer)][win32]
-
-[win64]: https://repo.anaconda.com/archive/Anaconda3-2018.12-Windows-x86_64.exe
-[win32]: https://repo.anaconda.com/archive/Anaconda3-2018.12-Windows-x86.exe
-[mac64]: https://repo.anaconda.com/archive/Anaconda3-2018.12-MacOSX-x86_64.sh
-[lin64]: https://repo.anaconda.com/archive/Anaconda3-2018.12-Linux-x86_64.sh
-[lin32]: https://repo.anaconda.com/archive/Anaconda3-2018.12-Linux-x86.sh
-
-**Install** [Anaconda](https://docs.anaconda.com/anaconda/install/) on your machine. 
+* Install [Anaconda](https://docs.anaconda.com/anaconda/install/)  
 
 ## 1.2 Create and Activate the Environment
 
